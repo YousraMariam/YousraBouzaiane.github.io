@@ -149,12 +149,6 @@ input[type="checkbox"]{
   font-size: 40px;
   font-weight: 700;
 }
-
-.aboutme{
-  display: block;
-  border: 10px;
-}
-
 .aboutme{
   border: 15px solid whitesmoke; 
   display: inline-block;
@@ -167,7 +161,7 @@ input[type="checkbox"]{
   background-color: whitesmoke;
   font-size: 23px;
   width: 810px;
-  height: 400px;
+  height: 360px;
   text-align: left;
   box-shadow: 10px 15px;
   -moz-opacity: 0.6;
