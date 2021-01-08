@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(206, 206, 206);
+}
+
+label{
+    color: indigo;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input[type=submit]{
+    color: indigo;
+    border: solid 2px royalblue;
+}
+
+legend{
+    color: rosybrown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
